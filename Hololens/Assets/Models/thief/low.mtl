@@ -1,0 +1,12 @@
+# Blender MTL File: 'thief2.blend'
+# Material Count: 1
+
+newmtl high.obj_Default
+Ns 98.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.810417 0.810417 0.810417
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd .

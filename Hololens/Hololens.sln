@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hololens.CSharp.Plugins", "Hololens.CSharp.Plugins.csproj", "{095B835A-F274-2A8F-85DF-62E0ED054CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hololens.CSharp", "Hololens.CSharp.csproj", "{171AD25B-8DE2-CA61-FC72-C287C87E7029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hololens.CSharp.Editor", "Hololens.CSharp.Editor.csproj", "{AD540C09-E2F3-403B-E78D-8B8BF92BBD7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095B835A-F274-2A8F-85DF-62E0ED054CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095B835A-F274-2A8F-85DF-62E0ED054CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095B835A-F274-2A8F-85DF-62E0ED054CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095B835A-F274-2A8F-85DF-62E0ED054CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171AD25B-8DE2-CA61-FC72-C287C87E7029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171AD25B-8DE2-CA61-FC72-C287C87E7029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171AD25B-8DE2-CA61-FC72-C287C87E7029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171AD25B-8DE2-CA61-FC72-C287C87E7029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD540C09-E2F3-403B-E78D-8B8BF92BBD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD540C09-E2F3-403B-E78D-8B8BF92BBD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD540C09-E2F3-403B-E78D-8B8BF92BBD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD540C09-E2F3-403B-E78D-8B8BF92BBD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
